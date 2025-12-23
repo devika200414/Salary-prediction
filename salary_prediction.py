@@ -38,4 +38,5 @@ plt.title("Experience vs Salary Prediction")
 plt.savefig("salary_prediction.png",dpi=300,bbox_inches="tight")
 plt.legend()
 
+
 plt.show()
